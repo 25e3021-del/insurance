@@ -1,0 +1,7 @@
+{
+  "name": "Sundari Insurance Consultant Pro",
+  "description": "A comprehensive insurance consultancy platform with expert AI guidance, policy exploration, premium calculation, and service management, powered by Supabase and Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
